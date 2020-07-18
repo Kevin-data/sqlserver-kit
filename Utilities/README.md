@@ -5761,6 +5761,7 @@ YourSqlDba script creates a database named YourSqlDba packed with T-SQL modules 
 [EMS SQL Query]:http://www.sqlmanager.net/en/products/mssql/query
 [EMS Data Comparer]:http://www.sqlmanager.net/en/products/mssql/datacomparer
 [NitroAccelerator]:http://nitrosphere.com/nitroaccelerator/
+[ERBuilder data modeler]:https://soft-builder.com/erbuilder-data-modeler/
 [ERwin Data Modeler]:http://erwin.com/products/data-modeler
 [Toad Data Point]:https://www.quest.com/products/toad-data-point/
 [SQL Power Architect]:http://www.sqlpower.ca/page/architect
