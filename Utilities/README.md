@@ -331,7 +331,8 @@ Utility types (main purpose), in braces `{}` current counts:
 | [DatabasesSpy](#databasespy)                                     | Oracle,MySQL,PostgreSQL,Other | No        | [MS]     | [DatabaseSpy]                               | 2019-10-09 | Altova                | Shareware  | No             |  €109 |
 | [DiffDog](#diffdog)                                              | Oracle,MySQL,PostgreSQL,Other | No        | [DC],[SC]| [DiffDog]                                   | 2019-10-09 | Altova                | Shareware  | No             |  €109 |
 | [ERBuilder data modeler](#erbuilder)                             | Oracle,MySQL,PostgreSQL,Other | No        | [DA]     | [ERBuilder data modeler]                    | 2019-11-14 | Softbuilder           |            | Yes            |   $99 |
-| [SQLDatabaseStudio](#sqldatabasestudio)                          | No                            | No        | [MS]     | [SQLDatabaseStudio]                         | 2017-05-10 | Jan Pivarcek          |            | Yes            |  $215 |
+| [SB Data Generator](#SB-Data-Generator)                          | Oracle,MySQL,PostgreSQL,Other | No        | [G]      | [SB Data Generator]                         | 2020-05-01 | Softbuilder           |            | Yes            |  $49 |
+| [SQLDatabaseStudio](#sqldatabasestudio)                          | No                            | No        | [MS]     | [SQLDatabaseStudio]                         | 2017-05-10 | Jan Pivarcek              |            | Yes            |  $215 |
 | [Enterprise Architect](#ea)                                      | Oracle,MySQL,PostgreSQL,Other | Online    | [DA]     | [Enterprise Architect]                      | 2019-10-31 | Sparx Systems Pty Ltd | Shareware  | No             |  $225 |
 | [MogwaiERDesignerNG](#mogwai)                                    | Oracle,MySQL,PostgreSQL       | No        | [DA]     | [MogwaiERDesignerNG]                        | 2019-08-22 | Mirko Sertic          | [LGPL-3.0] | Open Source    | No    |
 | [Xcase](#xcase)                                                  | Oracle,MySQL,PostgreSQL,Other | No        | [DA]     | [Xcase]                                     | 2018-06-19 | Resolution Software   | Shareware  | No             |  $799 |
@@ -4784,6 +4785,22 @@ Price: $99
 ERBuilder Data Modeler allows developers to graphically design databases by using entity relationship diagrams, and automatically generates the most popular SQL databases.
 It also allows developers to easily deploy databases by offering a sophisticated visual data modeling environment.
 
+## SB Data Generator
+<a id="SB-Data-Generator"></a>
+Download page: [SB Data Generator]<br/>
+Release date: 2020-05-01<br/>
+Support Version: 2008-2019/AzureSQL<br/>
+Author: Softbuilder<br/>
+Free version: No<br/>
+Price: $49
+
+SB Data Generator is a simple and powerful GUI tool to generate and populate selected tables or entire databases with maningful test data for your applications. SB Data Generator reverses your database and displays tables and columns, so you can assign to them multiple data generator templates.
+- Support generate test data for PostgreSQL and other databases
+- Full support of all essential data types
+- Generate a large volume of realistic test data
+- Preview what data will be generated before performing the generation
+- Various built-in generators available
+- Ability to create or customize data generators
 
 ## SQLDatabaseStudio
 <a id="sqldatabasestudio"></a>
@@ -5879,7 +5896,8 @@ YourSqlDba script creates a database named YourSqlDba packed with T-SQL modules 
 [MS SQL Migration Toolkit]:https://www.convert-in.com/msskit.htm
 [DatabaseSpy]:https://www.altova.com/databasespy
 [DiffDog]:https://www.altova.com/diffdog
-[ERBuilder data modeler]:https://soft-builder.com/
+[ERBuilder data modeler]:https://soft-builder.com/erbuilder-data-modeler/
+[SB Data Generator]:https://soft-builder.com/sb-data-generator/
 [SQLDatabaseStudio]:https://www.sqldatabasestudio.com/
 [Enterprise Architect]:https://sparxsystems.com/products/ea/index.html
 [MogwaiERDesignerNG]:https://github.com/mirkosertic/MogwaiERDesignerNG
